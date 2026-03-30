@@ -352,7 +352,7 @@ function initializeDefaultSettings() {
         // matrixText: 'ILOVEYOU',
         matrixColor1: '#ff69b4', 
         matrixColor2: '#ff1493', 
-        sequence: 'HAPPY|BIRTHDAY|TO|ANAA',
+        sequence: 'HAPPY|BIRTHDAY|TO|YOU',
         // sequence: 'I\'M|PROUD|OF|U|❤️',
         sequenceColor: '#ff69b4', 
         gift: './image/happy3.gif',
